@@ -1,2 +1,8 @@
 La verificarea efectuării operațiilor aritmetice de bază cu numere întregi pozitive:
 Adunarea a două numere pozitive ex. 5+10 rezultat așteptat: 15 - sistemul funcționează corect; 
+Scăderea a două numere pozitive ex. 10-2 rezultat așteptat: 8 - sistemul funcționează corect; 
+Înmulțirea a două numere pozitive ex. 5*5 rezultat așteptat: 25 - sistemul funcționează corect; 
+Îpărțirea a două numere pozitive ex. 20/4 rezultat așteptat: 5 - sistemul funcționează corect; 
+La verificarea efectuării operațiilor aritmetice de bază cu numere întregi de pe axa numerelor reale:
+Adunarea a două numere reale ex. -5+10 rezultat așteptat: 5 - sistemul funcționează corect;
+Scăderea a două numere reale ex. -11-10 rezultat așteptat: -21 - sistemul funcționează corect;
