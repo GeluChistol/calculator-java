@@ -21,3 +21,4 @@ Adunarea a două numere zecimale reale, intrare: -0.20+12.35, rezultat așteptat
 Înmulțirea două numere zecimale reale, intrare: -1.5*2.5, rezultat așteptat: -3.75 - sistemul funcționează corect;
 Împărțirea două numere zecimale reale, intrare: -12.4/2.2, rezultat așteptat: 5.63 - sistemul funcționează corect;
 Înmulțirea două numere zecimale reale de același semn, intrare: -1.5*-2.5, rezultat așteptat: 3.75 - istemul dă eroare;
+Operații cu numere mai mari de 7 cifre, intrare 99999999+1, rezultat așteptat: 100000000 - sistemul dă eroare;
