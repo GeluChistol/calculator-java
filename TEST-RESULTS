@@ -10,4 +10,11 @@ Scăderea a două numere reale - intrare: -11-10, rezultat așteptat: -21 - sist
 Împărțirea a două numere reale - intrare: -10/5, rezultat așteptat: -2 - sistemul funcționează corect;
 Operații de înmulțire a două numere reale cu același semn - intrare: (-2)*(-4), rezultata așteptat: 8 - sistemul dă eroare;
 Operații de împărțire a două numere reale cu același semn - intrare: (-8)*(-2) rezultata așteptat: 4 - sistemul dă eroare;
+Înmulțirea a două numere negative - intrare: -12*-2, rezultat așteptat: 24 - sistemul dă eroare;
 Împărțirea cu 0, intrare: 20/0, rezultata așteptat: nu poate fi efectuată împărțirea la 0 - sistemul funcționează corect, mesajul transmis: Infinity;
+Operații cu numere zecimale
+Adunarea a două numere zecimale pozitive, intrare: 0.20+12.35, rezultat așteptat: 12.55 - sistemul funcționează corect;
+Scăderea a două numere zecimale pozitive, intrare: 20.40-12.20, rezultat așteptat: 8.20 - sistemul funcționează corect;
+Înmulțirea a două numere zecimale pozitive, intrare: 5.5*2.5, rezultat așteptat: 13.75 - sistemul funcționează corect;
+Împărțirea a două numere zecimale pozitive, intrare: 10.4/2.2, rezultat așteptat: 4.7272 - sistemul funcționează corect;
+Adunarea a două numere zecimale reale, intrare: -0.20+12.35, rezultat așteptat: 12.15 - sistemul funcționează corect;
