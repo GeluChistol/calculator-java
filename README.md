@@ -11,3 +11,7 @@ Fișier calculator.java - pachetul implicit fără nume nu ar trebui utilizat;
 Fișier calculator.java - numărul liniei de cod 4 - clasele de utilitate nu ar trebui să aibă constructori publici;
 Fișier calculator.java - numărul liniei de cod 18 - mumele metodelor  și ale câmpurilor nu ar trebui să fie identice sau să se deosebească doar prin scrierea cu majuscule;
 Fișier calculator.java - numărul liniei de cod 24 - mumele metodelor ar trebui să se conformeze convenției de numire;
+Fișier calculator.java - numărul liniei de cod 53 - bucla for ar putea fi îmbunătățită cu o buclă for îmbunătățită;
+Fișier calculator.java - numărul liniei de cod 70 - este o practică rea ca variabilele locale să fie declarate și returnate imediat;
+Fișier calculator.java - numărul liniei de cod 74 - mumele metodelor ar trebui să respecte convenția de denumire;
+Fișier calculator.java - numărul liniei de cod 183 - jumper-ul return este inutil;
