@@ -1,13 +1,13 @@
 La verificarea efectuării operațiilor aritmetice de bază cu numere întregi pozitive:
-Adunarea a două numere pozitive ex. 5+10 rezultat așteptat: 15 - sistemul funcționează corect; 
-Scăderea a două numere pozitive ex. 10-2 rezultat așteptat: 8 - sistemul funcționează corect; 
-Înmulțirea a două numere pozitive ex. 5*5 rezultat așteptat: 25 - sistemul funcționează corect; 
-Îpărțirea a două numere pozitive ex. 20/4 rezultat așteptat: 5 - sistemul funcționează corect; 
+Adunarea a două numere pozitive - intrare: 5+10, rezultat așteptat: 15 - sistemul funcționează corect; 
+Scăderea a două numere pozitive - intrare: 10-2, rezultat așteptat: 8 - sistemul funcționează corect; 
+Înmulțirea a două numere pozitive - intrare: 5*5, rezultat așteptat: 25 - sistemul funcționează corect; 
+Îpărțirea a două numere pozitive - intrare: 20/4, rezultat așteptat: 5 - sistemul funcționează corect; 
 La verificarea efectuării operațiilor aritmetice de bază cu numere întregi de pe axa numerelor reale:
-Adunarea a două numere reale ex. -5+10 rezultat așteptat: 5 - sistemul funcționează corect;
-Scăderea a două numere reale ex. -11-10 rezultat așteptat: -21 - sistemul funcționează corect;
-Înmulțirea a două numere reale ex. -10*5 rezultat așteptat: -50 - sistemul funcționează corect;
-Împărțirea a două numere reale ex. -10/5 rezultat așteptat: -2 - sistemul funcționează corect;
-Operații de înmulțire a două numere reale cu același semn ex. (-2)*(-4) rezultata așteptat: 8 - sistemul dă eroare;
-Operații de împărțire a două numere reale cu același semn ex. (-8)*(-2) rezultata așteptat: 4 - sistemul dă eroare;
-Împărțirea cu 0, ex. 20/0 rezultata așteptat: nu poate fi efectuată împărțirea la 0 - sistemul funcționează corect, mesajul transmis: Infinity;
+Adunarea a două numere reale - intrare: -5+10, rezultat așteptat: 5 - sistemul funcționează corect;
+Scăderea a două numere reale - intrare: -11-10, rezultat așteptat: -21 - sistemul funcționează corect;
+Înmulțirea a două numere reale - intrare: -10*5, rezultat așteptat: -50 - sistemul funcționează corect;
+Împărțirea a două numere reale - intrare: -10/5, rezultat așteptat: -2 - sistemul funcționează corect;
+Operații de înmulțire a două numere reale cu același semn - intrare: (-2)*(-4), rezultata așteptat: 8 - sistemul dă eroare;
+Operații de împărțire a două numere reale cu același semn - intrare: (-8)*(-2) rezultata așteptat: 4 - sistemul dă eroare;
+Împărțirea cu 0, intrare: 20/0, rezultata așteptat: nu poate fi efectuată împărțirea la 0 - sistemul funcționează corect, mesajul transmis: Infinity;
