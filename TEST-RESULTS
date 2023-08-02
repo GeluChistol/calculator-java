@@ -18,3 +18,6 @@ Scăderea a două numere zecimale pozitive, intrare: 20.40-12.20, rezultat aște
 Înmulțirea a două numere zecimale pozitive, intrare: 5.5*2.5, rezultat așteptat: 13.75 - sistemul funcționează corect;
 Împărțirea a două numere zecimale pozitive, intrare: 10.4/2.2, rezultat așteptat: 4.7272 - sistemul funcționează corect;
 Adunarea a două numere zecimale reale, intrare: -0.20+12.35, rezultat așteptat: 12.15 - sistemul funcționează corect;
+Înmulțirea două numere zecimale reale, intrare: -1.5*2.5, rezultat așteptat: -3.75 - sistemul funcționează corect;
+Împărțirea două numere zecimale reale, intrare: -12.4/2.2, rezultat așteptat: 5.63 - sistemul funcționează corect;
+Înmulțirea două numere zecimale reale de același semn, intrare: -1.5*-2.5, rezultat așteptat: 3.75 - istemul dă eroare;
