@@ -29,3 +29,26 @@ Intrare: (10-2)*(20-5), rezultat așteptat: 120 - sistemul dă eroare;
 Sistemul nu poate efectua operații complexe cu folosirea parantezelor;
 Sistemul nu poate efectua operații cu numere reale care au același semn;
 Sistemul dă eroare atunci când rezultatul este mai mare de 9999999;
+
+Tetul:
+
+public class TestCalculate {
+    public static void main(String[] args) {
+        test_calculate();
+    }
+    public static void test_calculate() {
+        String Expression = "10*5";
+        String expected_result = "50.0";
+        Calculator actual_result = new Calculator();
+
+        Calculator.Run(Expression);
+
+        String textResult = Float.toString(actual_result.finalResult);
+
+        if (expected_result.equals(textResult)) {
+            System.out.println ("test pass");
+        } else {
+            System.out.println ("test fail");
+        }
+    }
+}
