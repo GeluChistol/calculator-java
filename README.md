@@ -5,4 +5,4 @@ LOC pentru întregul proiect (prin observarea vizuală a celor două fișiere): 
 Folosind mediul de dezvoltare Intellij IDEA - Code - Calculate Metrics am obținut următorul rezultat: Project Metrics LOC - 153.
 
 Folosind același mediul de dezvoltare am obținut: complexitatea ciclomatică a metodei evaluateExpression - 12, complexitatea ciclomatică a
-metodei Calculate - 12, complexitatea cognitivă a metodei evaluateExpression - 14, complexitatea cognitivă a metodei Calculate - 23.
+metodei Calculate - 12, complexitatea cognitivă a metodei evaluateExpression - 14, complexitatea cognitivă a metodei Calculate - 23. 
