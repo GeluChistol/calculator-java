@@ -21,4 +21,11 @@ Adunarea a două numere zecimale reale, intrare: -0.20+12.35, rezultat așteptat
 Înmulțirea două numere zecimale reale, intrare: -1.5*2.5, rezultat așteptat: -3.75 - sistemul funcționează corect;
 Împărțirea două numere zecimale reale, intrare: -12.4/2.2, rezultat așteptat: 5.63 - sistemul funcționează corect;
 Înmulțirea două numere zecimale reale de același semn, intrare: -1.5*-2.5, rezultat așteptat: 3.75 - istemul dă eroare;
-Operații cu numere mai mari de 7 cifre, intrare 99999999+1, rezultat așteptat: 100000000 - sistemul dă eroare;
+Operații cu numere mai mari de 7 cifre, intrare 9999999+1, rezultat așteptat: 10000000 - sistemul dă eroare;
+La verificarea operațiilor matematice complexe:
+Intrare: 12+10*5+10/2, rezultat așteptat: 67 - sistemul funcționează corect;
+Intrare: (10-2)*(20-5), rezultat așteptat: 120 - sistemul dă eroare;
+
+Sistemul nu poate efectua operații complexe cu folosirea parantezelor;
+Sistemul nu poate efectua operații cu numere reale care au același semn;
+Sistemul dă eroare atunci când rezultatul este mai mare de 9999999;
