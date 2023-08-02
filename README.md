@@ -19,3 +19,4 @@ Fișier Start.java - pachetul implicit fără nume nu ar trebui utilizat;
 Fișier Start.java - numărul liniei de cod 6 - numele variabilelor locale și parametrii metodelor ar trebui să respecte regulile de definire;
 Fișier Start.java - numărul liniei de cod 8 - ieșirile standard nu ar trebui să fie utilizate direct a loga ceva;
 Fișier Start.java - numărul liniei de cod 19 - ieșirile standard nu ar trebui să fie utilizate direct a loga ceva;
+Am folosit plugin-ul Sonarlint din mediul de dezvoltare Intellij IDEA.
